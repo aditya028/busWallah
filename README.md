@@ -1,6 +1,5 @@
 # Buw-Wallah
 
-deployed link : http://18.191.127.230:8080/buswallah/
 
 Deployed website screen shots : https://drive.google.com/file/d/1c-ytCyA8Zl0QB-fTX7NK8r1S5-KwjN-A/view?usp=share_link
 
